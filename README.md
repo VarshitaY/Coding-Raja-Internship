@@ -1,4 +1,4 @@
-# Coding-Raja-Internship
+# Python-Internship
 Coding Raja Technologies Python Internship Tasks
 
 Welcome to my GitHub repository showcasing the projects I completed during my Python internship. Throughout this internship, I had the opportunity to apply my Python programming skills to solve real-world problems and develop practical solutions.
